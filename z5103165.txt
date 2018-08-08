@@ -1,0 +1,10 @@
+Begin from 1/8/2018
+
+Week 2
+In this week , Formed a team.Talked about all the possible points we can use in our project with all the team members.
+The main points and possibilities of each topic were discussed.
+Select the third topic as our project.
+Create the bitbucket and trello for the team.
+Create the project workplace named comp9900 for the team.
+Next week ,we will talk about the database we use and some details about the project development.
+Next week ,I will learn python django first.
